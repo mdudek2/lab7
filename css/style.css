@@ -1,7 +1,7 @@
 #main-navbar {
   background-color: blue;
-  overflow: hidden;	
-}	
+  overflow: hidden;
+}
 
 #navbar-container {
   float: left;
@@ -33,7 +33,7 @@
 }
 
 #main-navbar ul li a:hover {
-  background-color: #000;	
+  background-color: #000;
 }
 
 #onpage {
@@ -62,5 +62,5 @@
 }
 
 #sidebar ul li a:hover {
-  background-color: #000;	
+  background-color: #000;
 }
